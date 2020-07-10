@@ -1,0 +1,15 @@
+ФТП:
+finplaza
+ZMxncb123456.
+
+БазаДанных:
+база: u1078621_plaza
+сервер: localhost
+пользователь: u1078621_user
+пароль: zmxncb123456.
+
+строка соединения на хостинге
+"Provider=SQLOLEDB;Data Source=wpl27.hosting.reg.ru;Initial Catalog=u1078621_plaza;User ID=u1078621_user;Password=zmxncb123456.";
+
+строка соединения на домашнем ПК SQL Server
+"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\\plaza.accdb";
