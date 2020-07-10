@@ -1,0 +1,258 @@
+﻿body
+{
+    background-color:#e4e9eb;
+    margin: 0px;
+    
+}
+span
+{
+   font: 80% sans-serif;
+   font-weight:normal;
+}
+p
+{
+    margin:0px;
+}
+h1
+{
+    margin:0;
+    font-size:65px;
+
+}
+h2{
+    margin:0;
+}
+.h3
+{
+    margin:0;
+    font-size:85px;
+}
+a
+{
+    color:#333333;
+    font:85% sans-serif;
+    text-decoration:none;
+}
+hr
+{
+    margin: 0px;
+}
+.likebukva
+{
+    display: inline;
+    vertical-align:bottom;
+    text-align:left;
+}
+
+.mar10ver {
+    margin: 10px 0;
+}
+.mar5ver 
+{
+    margin: 5px 0;
+}
+.mar5hor
+{
+    margin: 0px 10px;
+}
+
+.myhead
+{
+    height:35px;
+    background-color: white;
+}
+.maindiv
+{
+    margin: 5px 70px;
+}
+.footer
+{
+    height:35px;
+    background-color: white;
+}
+.workspace
+{
+    width:1167px;
+    margin-left: 70px;
+}
+.auten
+{
+    width:1170px;
+     margin-left:250px;
+}
+.textcenter
+{
+    //background-color: white;
+    width:300px;    
+    margin: 0 auto;
+    text-align:center;
+    //display: table-cell;
+    //vertical-align:middle;
+//    height:35px;
+}
+.mymenu
+{
+      width: 200px;
+      display: inline-block;
+      vertical-align: top;
+}
+
+.logo1
+{
+    color: #26a9e0;
+    font: 100% sans-serif;
+}
+.logo2
+{
+    color: #16dbdb;
+    font: 100% sans-serif;
+}
+.logo3
+{
+    color: #046153;
+}
+
+.maincontent
+{
+    width:955px;
+    display: inline-block;
+    vertical-align: top;
+}
+.botcontent
+{
+        width:955px;
+    display: inline-block;
+    vertical-align:bottom;
+}
+.mar10
+{
+    margin: 10px;
+}
+.mar7 
+{
+    margin: 7px;
+}
+.mar10hor
+{
+    margin: 0px 10px;
+}
+.mar10right
+{
+    margin-right:10px;
+}
+.mar40left
+{
+    margin-left:40px;
+}
+.mar10up
+{
+    margin-top:10px;
+}
+.shiftleft8
+{
+    margin-left: -8px;
+}
+.onerow
+{
+    display:inline-block;
+}
+
+.bluebutton {
+    background-color: #26a9e0;
+    color: white;
+}
+.greenbutton
+{
+    background-color: #16dbdb;
+    //margin-right: 9px;
+}
+
+.redbutton
+{
+    background-color: #f5593d;
+    color: white;
+}
+.redtext
+{
+    color: red;
+}
+.onetable
+{
+    margin:10px 10px 0 10px;
+    
+}
+
+.invis
+{
+    display:none;
+}
+.vis
+{
+    display: normal;
+}
+
+.modalwin
+{
+    background-color:#26a9e0;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+.hint
+{
+    font-style: italic;
+    font-weight: bold;
+    
+}
+.stress
+{
+    color: red;
+}
+.norm
+{
+    color:black;
+}
+.divhint
+{
+    background-color:#16dbdb;
+    padding: 5px;
+}
+.diverror
+{
+    background-color:#f5593d;
+    padding: 5px;
+}
+.border1
+{
+    border-color: #26a9e0;
+    border-style:solid;
+    border-width:1px;
+}
+.textright
+{
+    float: right;
+    //font: 100% sans-serif;
+}
+.checkbox_checked
+{
+    object-fit: cover;
+    width: 20px;
+    height: 20px;
+    object-position:left center;
+}
+.checkbox_uncheck
+{
+    object-fit: cover;
+   width: 20px;
+    height: 20px;
+    object-position:right center;
+}
+.autorise
+{
+    width:inherit;
+    height:35px;
+}
+.textleft
+{
+    text-align:left;
+}
